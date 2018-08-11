@@ -1,7 +1,7 @@
 {
   "name": "siwi-utils",
-  "version": "1.0.0",
-  "description": "一些方法的封装",
+  "version": "1.0.2",
+  "description": "siwi-utils",
   "main": "index.js",
   "directories": {
     "lib": "lib",
