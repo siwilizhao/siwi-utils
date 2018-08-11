@@ -1,0 +1,30 @@
+{
+  "name": "siwi-utils",
+  "version": "1.0.0",
+  "description": "一些方法的封装",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwilizhao/siwi-utils.git"
+  },
+  "keywords": [
+    "siwi-utils"
+  ],
+  "author": "siwilizhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siwilizhao/siwi-utils/issues"
+  },
+  "homepage": "https://github.com/siwilizhao/siwi-utils#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
